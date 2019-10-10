@@ -1,0 +1,24 @@
+{
+  "name": "tiandingmall/suning-sdk",
+  "description": "suning sdk for composer package",
+  "keywords": [
+    "tiandingmall",
+    "suning",
+    "sdk"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "laihj",
+      "email": "laihongji@shenzhenpoly.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "TiandingMall\\SuningSdk\\": "src"
+    }
+  }
+}
