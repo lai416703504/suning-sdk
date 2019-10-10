@@ -1,12 +1,12 @@
 {
-  "name": "tiandingmall/suning-sdk",
+  "name": "lai416703504/suning-sdk",
   "description": "suning sdk for composer package",
   "keywords": [
     "tiandingmall",
     "suning",
     "sdk"
   ],
-  "license": "Apache-2.0",
+  "license": "MIT",
   "authors": [
     {
       "name": "laihj",
